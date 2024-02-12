@@ -1,0 +1,15 @@
+firstname Amelia , secondname Clark , salary: 2600,expp: 1 , age:20 
+firstname Adam , secondname Johns , salary: 2500,expp: 3 , age:21 
+firstname James , secondname Taylor , salary: 2700,expp: 2 , age:22 
+firstname Ava , secondname White , salary: 2900,expp: 4 , age:24 
+firstname Emma , secondname Wilson , salary: 2900,expp: 4 , age:24 
+firstname Alice , secondname Smith , salary: 2800,expp: 5 , age:25 
+firstname Daniel , secondname Harris , salary: 2800,expp: 5 , age:25 
+firstname Olivia , secondname Anderson , salary: 3000,expp: 6 , age:26 
+firstname Sophia , secondname Davis , salary: 3100,expp: 7 , age:28 
+firstname Alexander , secondname Martin , salary: 3100,expp: 7 , age:28 
+firstname John , secondname Doe , salary: 3200,expp: 8 , age:30 
+firstname Mia , secondname Thompson , salary: 3200,expp: 8 , age:30 
+firstname Michael , secondname Brown , salary: 3400,expp: 9 , age:32 
+firstname William , secondname Thomas , salary: 3300,expp: 10 , age:33 
+firstname Ethan , secondname Walker , salary: 3500,expp: 11 , age:34 
